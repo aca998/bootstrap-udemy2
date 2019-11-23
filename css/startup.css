@@ -50,3 +50,43 @@ img{
     font-weight: bold;
     text-transform: uppercase;
 }
+.feature-content{
+    padding: 8rem 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+
+}
+.feature-content img{
+    margin-bottom: -8rem;
+}
+.feature-dark{
+    background:#262f36;
+    color: white;
+}
+.feature-dark h2{
+    color: white;
+}
+.feature-dark h6{
+    color: white;
+}
+.feature-alt{
+    background: #f0f0f0;
+
+}
+.feature-four .feature-content{
+    padding: 0;
+}
+#main-footer{
+    background: #262f36;
+    color: white;
+    padding: 6rem 0;
+    font-size: 0.8rem;
+}
+#main-footer h6{
+    color: #718Fa9;
+}
+#main-footer a{
+    text-decoration: none;
+    color: #6c6f73;
+}
