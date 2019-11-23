@@ -1,0 +1,16 @@
+.jumbotron{
+    background: url(/img/banjo.jpg) no-repeat bottom center;
+    background-size: cover;
+
+
+}
+.ptem {
+    color: white;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.jumbotron div{
+    background: rgba(255, 255, 255, 0.2);
+    padding: 2rem;
+    color: white;
+    max-width: 40rem;
+}
